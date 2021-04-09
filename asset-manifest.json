@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lab-react-stardom/static/css/main.88194ee1.chunk.css",
+    "main.js": "/lab-react-stardom/static/js/main.33687a0c.chunk.js",
+    "main.js.map": "/lab-react-stardom/static/js/main.33687a0c.chunk.js.map",
+    "runtime-main.js": "/lab-react-stardom/static/js/runtime-main.d9960a51.js",
+    "runtime-main.js.map": "/lab-react-stardom/static/js/runtime-main.d9960a51.js.map",
+    "static/js/2.b694657a.chunk.js": "/lab-react-stardom/static/js/2.b694657a.chunk.js",
+    "static/js/2.b694657a.chunk.js.map": "/lab-react-stardom/static/js/2.b694657a.chunk.js.map",
+    "static/js/3.445487a4.chunk.js": "/lab-react-stardom/static/js/3.445487a4.chunk.js",
+    "static/js/3.445487a4.chunk.js.map": "/lab-react-stardom/static/js/3.445487a4.chunk.js.map",
+    "index.html": "/lab-react-stardom/index.html",
+    "static/css/main.88194ee1.chunk.css.map": "/lab-react-stardom/static/css/main.88194ee1.chunk.css.map",
+    "static/js/2.b694657a.chunk.js.LICENSE.txt": "/lab-react-stardom/static/js/2.b694657a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9960a51.js",
+    "static/js/2.b694657a.chunk.js",
+    "static/css/main.88194ee1.chunk.css",
+    "static/js/main.33687a0c.chunk.js"
+  ]
+}
